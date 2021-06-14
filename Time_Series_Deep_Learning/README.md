@@ -4,5 +4,5 @@
 
 ## Sentimanet Anaylsis using Attention Layers and RNN's
 
-All Work in Jupyter Notebook: https://github.com/dmulhall/College_Assignments/blob/main/Time_Series_Deep_Learning/Etivity2_12128856.ipynb
+All Work in Jupyter Notebook: https://github.com/dmulhall/College_Assignments/blob/main/Time_Series_Deep_Learning/Etivity2_Time_Series.ipynb
 
